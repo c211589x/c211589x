@@ -143,7 +143,7 @@ a.kaiwa-text:last-child {
 
 .content{
 text-align: center;
-background-image: url("jpg/back2.png");
+background-image: url(jpg/back2.png);
 }
 
 .content img{
